@@ -114,7 +114,7 @@
 
 	function _submitForm(formData) {
 		$.ajax({
-		    url: "//formspree.io/fair.dan@gmail.com",
+		    url: "//formspree.io/dan@scruffysoftware.com",
 		    method: "POST",
 		    data: formData,
 		    dataType: "json",
