@@ -114,7 +114,7 @@
 
 	function _submitForm(formData) {
 		$.ajax({
-		    url: "//formspree.io/f/xzbkrwbr",
+		    url: "https://formspree.io/f/xzbkrwbr",
 		    method: "POST",
 		    data: formData,
 		    dataType: "json",
